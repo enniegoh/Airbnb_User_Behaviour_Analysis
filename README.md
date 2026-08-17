@@ -10,8 +10,6 @@ Analyzed Airbnb session log data from **135,000+ users** to engineer behavioral 
 
 ## Tech Stack
 - Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
 
 ## Key Features Engineered
 | Feature | Description |
